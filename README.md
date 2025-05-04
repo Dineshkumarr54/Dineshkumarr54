@@ -11,7 +11,12 @@ I'm a Computer Science Engineering student graduating in 2025, with a passion fo
 
 ## 📈 GitHub Stats
 
-![Dinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=R-Dinesh-Kumar&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Dinesh-Kumar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Dinesh-Kumar&layout=compact&theme=tokyonight)
+
 
 ## 📌 Pinned Projects
 
@@ -19,7 +24,7 @@ I'm a Computer Science Engineering student graduating in 2025, with a passion fo
 
 - [Portfolio](https://github.com/R-Dinesh-Kumar/portfolio): A personal portfolio website to showcase my web development projects, skills, and contact information.
 
-- [Netflix Clone](https://github.com/R-Dinesh-Kumar/netflix-clone): A Netflix clone built with React, replicating movie browsing and trailer viewing functionalities.
+- [Netflix Clone](https://github.com/R-Dinesh-Kumar/Netflix): A Netflix clone built with React, replicating movie browsing and trailer viewing functionalities.
 
 ## 💻 Current Learning
 
@@ -29,7 +34,7 @@ I'm a Computer Science Engineering student graduating in 2025, with a passion fo
 ## 🌱 How to Reach Me
 
 - Email: dineshkumarr5431@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- LinkedIn: www.linkedin.com/in/dineshkumarr5431
 
 ---
 
