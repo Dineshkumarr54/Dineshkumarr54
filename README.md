@@ -11,20 +11,19 @@ I'm a Computer Science Engineering student graduating in 2025, with a passion fo
 
 ## 📈 GitHub Stats
 
-## 📊 GitHub Stats
+![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dineshkumarr54&show_icons=true&theme=tokyonight)
 
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Dinesh-Kumar&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumarr54&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Dinesh-Kumar&layout=compact&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Dineshkumarr54&theme=tokyonight)
 
 ## 📌 Pinned Projects
 
-- [Weather App](https://github.com/R-Dinesh-Kumar/weather-app): A weather application built using JavaScript and React. It fetches real-time weather data based on the user's location.
+- [Weather App](https://github.com/Dineshkumarr54/Weather-App.git): A weather application built using JavaScript and React. It fetches real-time weather data based on the user's location.
 
-- [Portfolio](https://github.com/R-Dinesh-Kumar/portfolio): A personal portfolio website to showcase my web development projects, skills, and contact information.
+- [Portfolio](https://github.com/Dineshkumarr54/Portfolio.git): A personal portfolio website to showcase my web development projects, skills, and contact information.
 
-- [Netflix Clone](https://github.com/R-Dinesh-Kumar/Netflix): A Netflix clone built with React, replicating movie browsing and trailer viewing functionalities.
+- [Netflix Clone](https://github.com/Dineshkumarr54/Netflix.git): A Netflix clone built with React, replicating movie browsing and trailer viewing functionalities.
 
 ## 💻 Current Learning
 
